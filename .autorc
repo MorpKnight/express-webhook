@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "MorpKnight",
+  "repo": "express-webhook",
+  "name": "MorpKnight",
+  "email": "christoffelsihombing@gmail.com",
+}
